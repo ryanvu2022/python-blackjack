@@ -11,3 +11,5 @@ A real blackjack game with rules:
 - Once the user is done, it's time to let the computer play. The computer should keep drawing cards as long as it has a score less than 17.  
 - If the computer and user both have the same score, then it's a draw. If the computer has a blackjack, then the user loses. If the user has a blackjack, then the user wins. If the user_score is over 21, then the user loses. If the computer_score is over 21, then the computer loses. If none of the above, then the player with the highest score wins.  
   
+      
+  ![](screenshot.png)
